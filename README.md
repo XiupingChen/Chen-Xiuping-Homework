@@ -42,3 +42,9 @@ g++ -std=c++11 matrix/main.cpp matrix/matrix.cpp -o matrix-demo
 ```
 
 所有程序均使用 C++11 编写，并保留了老师提供的测试，同时增加了自定义测试。运行结果均已通过。
+
+## AI 工具说明
+
+本次作业使用了 ChatGPT作为辅助工具，涉及 binary search、merge sort、maximum return 和 matrix class 四个部分。
+
+AI 工具主要帮助我理解题目要求、梳理算法思路和检查代码。所有代码均由我在本地使用 C++11 编译并运行测试。
