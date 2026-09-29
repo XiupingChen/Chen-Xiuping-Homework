@@ -1,6 +1,6 @@
 # C++ 课程作业
 
-Repository URL: https://github.com/XiupingChen/Chen-Xiuping-Homework
+Repository URL: https://github.com/XiupingChen/homework-01-2026001406
 
 这是我完成作业，按照要求，练习了二分查找、归并排序、最大连续子数组和以及矩阵类的实现。
 
